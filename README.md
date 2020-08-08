@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cyrus Jackson Portfolio Website
 
 You can use the [editor on GitHub](https://github.com/cyrusjks10/cyrusjks10.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
