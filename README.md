@@ -8,8 +8,7 @@ I am proficient in Excel,SQL(PostgreSQL),and R and seeking a Data Analyst or Bus
 
 ## Projects 
 
-Name | Description
-------------------
-Project 1 | Project 1 Description
-Project 2 | Project 2 Description 
-Project 3| Project 3 Description
+| Project       | Description   |
+| -------       | -----------   |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
