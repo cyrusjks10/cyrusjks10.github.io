@@ -10,5 +10,5 @@ I am proficient in Excel,SQL(PostgreSQL),and R and seeking a Data Analyst or Bus
 
 | Project       | Description   |
 | -------       | -----------   |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Content Cell  | Content Cell  
+Content Cell  | Content Cell  
